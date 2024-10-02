@@ -8,4 +8,4 @@ terraform plan
 terraform apply
 
 #Destroy resources
-terraform destroy
+# (optional) terraform destroy
